@@ -1,0 +1,13 @@
+.card {
+    height: 200px;
+    width: 150px;
+    margin: 10px;
+    background-color: #efead7;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.card:hover {
+    background-color: #ebdfb5;
+    transform: translate(0px, 3px);
+}

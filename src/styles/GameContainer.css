@@ -1,0 +1,15 @@
+.game-container {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    width: 90%;
+    height: 100%;
+    left: 50%;
+}
+
+.testy {
+    width: 100px;
+    background-color: white;
+}
