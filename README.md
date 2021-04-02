@@ -14,7 +14,7 @@ A basic Pokemon memory card game.
 - [PokeAPI-JS-Wrapper](https://github.com/PokeAPI/pokeapi-js-wrapper)
 
 ## Getting Started
-- Clone this project: git clone https://github.com/Tmcerlean/cv-builder.git
+- Clone this project: git clone https://github.com/Tmcerlean/memory-card.git
 - Install the required dependencies by using: npm install
 - A live demo of the project can be started by using: npm start
 - Distribution files can be produced using: npm run build
